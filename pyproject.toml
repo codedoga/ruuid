@@ -4,7 +4,6 @@ build-backend = "maturin"
 
 [tool.maturin]
 bindings = "cffi"
-compatibility = "linux"
 
 [tool.maturin.dependencies]
 python = "^3.6"
